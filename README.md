@@ -4,4 +4,4 @@ A collection of small Python CLI tools created for learning and portfolio purpos
 
 ## Projects
 
-- 🔐 [Password Generator](./password_generator/README.md)
+- 🔐 [Password Generator](https://github.com/Sauer12/My_projects/tree/main/password_generator/read.me)
